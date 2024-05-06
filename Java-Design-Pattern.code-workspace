@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "Java-Design-Pattern",
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../.."
+        }
+    ]
 }
